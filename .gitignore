@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# GIS big stuff — DO NOT COMMIT
+*.gdb/
+*.gdb
+*.gpkx
+*.gpkg
+*.mxd
+*.sde
+*.sqlite
+*.tif
+*.img
+*.sid
+*.zip
+*.7z
+*.rar
+*.shp
+*.shx
+*.dbf
+*.prj
+*.lyrx
+*.aprx
+*.qmd
+*.rvt
+
+# Local data folders (keep data out of Git)
+Data_thesis_Chicago/
+Processed_Data/
+Outputs/
+Traffic/
+Traffic_Volume/
+Road_Network/
+Boundaries/
+Documentation/checksums.txt
